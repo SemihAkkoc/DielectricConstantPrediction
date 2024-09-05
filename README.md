@@ -178,4 +178,4 @@ This function adds additive Gaussian white noise with a specified variance to th
 
 ---
 
-This repository contains the MATLAB and CST models required for dielectric constant and tangent loss prediction based on Waldron’s methodology additionally model trained on CST simulations.
+This repository contains the MATLAB and CST Studio models required for dielectric constant and tangent loss prediction based on Waldron’s methodology additionally model trained on CST Studio simulations.
