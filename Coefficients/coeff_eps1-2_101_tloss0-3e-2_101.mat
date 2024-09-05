@@ -1,0 +1,29 @@
+# Created by Octave 9.2.0, Wed Aug 28 13:18:35 2024 GMT <unknown@PRJ-HUSEYIN>
+# name: first_resonance_coeff
+# type: matrix
+# rows: 1
+# columns: 4
+ 1.458179848516566e-25 1.3350054311214684e-17 5.8328798041617994e-09 1.0024091567920306
+
+
+# name: second_resonance_coeff
+# type: matrix
+# rows: 1
+# columns: 4
+ 2.2279834078148898e-26 1.5209305514640758e-18 3.165585745031487e-09 0.99205306996732845
+
+
+# name: first_resonance_coeff_qFactor
+# type: matrix
+# rows: 1
+# columns: 4
+ 2.8613115760878709e-07 5.7723066318801034e-06 0.0007379334302442252 -3.5994905111371297e-05
+
+
+# name: second_resonance_coeff_qFactor
+# type: matrix
+# rows: 1
+# columns: 4
+ 5.4130084233768927e-06 3.0472584588922818e-05 0.0029479027142795449 0.00055835329592812623
+
+
